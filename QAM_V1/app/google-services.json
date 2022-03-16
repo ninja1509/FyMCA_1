@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830332308416",
+    "project_id": "qamproject-d4f72",
+    "storage_bucket": "qamproject-d4f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830332308416:android:b8b323702e19c0632f5625",
+        "android_client_info": {
+          "package_name": "com.example.qam_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830332308416-naeooe61u85gbt1kuvi1dburtk5n1e49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6TaYtaynCPdFLOjjQTodTSgjdvOiCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830332308416-naeooe61u85gbt1kuvi1dburtk5n1e49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
